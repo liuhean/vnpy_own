@@ -182,7 +182,7 @@ Download the latest version from [here](https://github.com/vnpy/vnpy/releases), 
 **Windows**
 
 ```
-install.bat
+.\install.bat
 ```
 
 **Ubuntu**

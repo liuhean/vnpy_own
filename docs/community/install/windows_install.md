@@ -139,7 +139,7 @@ examples.run()
 下载完成后解压，然后启动命令行工具（CMD或者PowerShell），进入源代码所在的目录后（即install.bat文件所在的目录），输入下列命令运行脚本执行一键安装：
 
 ```
-install.bat
+ .\install.bat
 ```
 
 一键安装过程整体分为3步：

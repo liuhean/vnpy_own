@@ -204,7 +204,8 @@ VeighNa是一套基于Python的开源量化交易系统开发框架，在开源�
 **Windows**
 
 ```
-install.bat
+.\install.bat
+
 ```
 
 **Ubuntu**
